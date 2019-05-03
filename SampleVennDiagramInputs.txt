@@ -1,19 +1,25 @@
 VIDEO CONTENT (in case we need to test tags or input values in Venn Diagram):
 
+TAGS:
+
 Academic Culture - Sciences Po video:
-- Increased security in French schools 
-- Intense studying schedule
-- French schools allow you to choose what day to do paper or presentation
-- More academically rigorous
-- Exchange classes get filled fast
+- Security in schools
+- Intense studying 
+- Flexible schedule
+- Academically rigorous
+- Classes filled fast
 
 Introduction to Academic Culture video:
--Academic culture as a community
--Contingent nature of knowledge
--Scholarly rigor
--Recognize that knowledge, discovery, and sharing is a collective enterprise
--Recognize that understanding is enchanced by bringing together different perspectives
+- Community oriented
+- Contingent nature of knowledge
+- Collective enterprise
+- Diverse perspectives
 
 Similarities:
 - Independent learning 
 - Critical thinking
+
+
+---------------------------
+
+(The two videos aren't related by much -- the first one is talking specifically about French schools and the second is explaining the concept of academic culture) 
